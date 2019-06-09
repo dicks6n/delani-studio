@@ -12,7 +12,8 @@ html
 css
 jquery
 
-#BDB
+### BDD:
+#### This app is therefore expected to work as following:
 
 
 
