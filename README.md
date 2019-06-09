@@ -1,15 +1,15 @@
-# delani-studio
-#AUTHOR
+## delani-studio
+### AUTHOR:
 DICKSON MACHARIA MAINA
-#DESCRIPTION
-
-#INSTALLATION
-jquery
+### DESCRIPTION
+Delani studio website is a super cool,advertising website that an e-commerce business person can use with high confidenciality that a customer will like if he/she opens to know more about the company.
 
 ### Languages used:
 * HTML
 * Javascript
 * CSS
+* jquery
+* bootstrap
 
 ### BDD:
 #### This app is therefore expected to work as following:
