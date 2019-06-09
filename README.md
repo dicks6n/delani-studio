@@ -2,7 +2,7 @@
 ### AUTHOR:
 DICKSON MACHARIA MAINA
 ### DESCRIPTION
-Delani studio website is a super cool,advertising website that an e-commerce business person can use with high confidenciality that a customer will like if he/she opens to know more about the company.click here for more: https://github.com/dicks6n/delani-studio/tree/master
+Delani studio website is a super cool,advertising website that an e-commerce business person can use with high confidenciality that a customer will like if he/she opens to know more about the company.click here for more: https://github.com/dicks6n/delani-studio
 
 ### Languages used:
 * HTML
