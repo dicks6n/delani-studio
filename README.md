@@ -17,9 +17,11 @@ jquery
 * If a client want to know about DELANI STUDIO we have made it easy for you just look at our portfolio in our website which is well highlighted in the description sector.
 * if a client want to know what we do as DELani STUDIO ,go to the 'WHAT WE DO' section and click on the icons on the page you will get more of what we do.
 
+### Setup requirements:
+* Web browser
+* Internet connection
 
-
-##License
+### License:
 MIT License
 
 Copyright (c) 2019 dicks6n
