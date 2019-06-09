@@ -8,8 +8,6 @@ Delani studio website is a super cool,advertising website that an e-commerce bus
 * HTML
 * Javascript
 * CSS
-* jquery
-* bootstrap
 
 ### BDD:
 #### This app is therefore expected to work as following:
