@@ -84,7 +84,8 @@ padding: 50px;
   padding: 70px;
 }
 .col-sm-form-group{
-  display: inline-block;
+  display: inline-flex;
+
   color: white;
   margin: 20px;
 }
