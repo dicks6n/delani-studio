@@ -14,6 +14,7 @@ jquery
 
 ### BDD:
 #### This app is therefore expected to work as following:
+* Be able to display an input button for the user.
 
 
 
