@@ -15,7 +15,7 @@ $(".clickable3").click(function() {
   });
 },
 function() {
-     $(this).animate( {
+     $(this ).animate( {
        opacity :'0'
      });
    });
