@@ -10,8 +10,20 @@ $(".clickable3").click(function() {
   $(".hide3").slideToggle(1200);
   $(".show3").slideToggle(1500);
 });
-$("#sub").click(function(event) {
-  var name = $("#name").val();
-  alert(name + " Thank you for replying");
-  event.preventDefault();
+  $(".B").hover(function(){
+  $(this).animate(){
+  });
+},
+function() {
+     $(this).animate( {
+       opacity :'0'
+     });
+   });
+     $("#sub").click(function(event) {
+       var name = $("#name").val();
+       alert(name + " Thank you for replying");
+       event.preventDefault();
+     });
+});
+
 });
