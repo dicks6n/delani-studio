@@ -2,9 +2,13 @@
 #AUTHOR
 DICKSON MACHARIA MAINA
 #DESCRIPTION
-
+This is the official website for delani-studio, which contains information about the studio you'll get to see our portfolio what we do and also get to contact our talented designers and developers.
 #INSTALLATION
-Jquery
+* Jquery
+* git clone
+* cd delani-STUDIO
+* atom
+* code (for visual Studio users and sublime text)
 
 #LANGUAGES USED
 
@@ -13,9 +17,12 @@ css
 jquery
 
 ### BDB:
-Be able to display an input button for the user.
-If a client want to know about DELANI STUDIO we have made it easy for you just look at our portfolio in our website which is well highlighted in the description sector.
-if a client want to know what we do as DELani STUDIO ,go to the 'WHAT WE DO' section and click on the icons on the page you will get more of what we do.
+* About us section.
+* service PROVIDED
+* a contact form that allows a customer to leave his/her comment.
+* Be able to display an input button for the user.
+* If a client want to know about DELANI STUDIO we have made it easy for you just look at our portfolio in our website which is well highlighted in the description sector.
+* What we do icon section: If a client want to know what we do as DELani STUDIO ,go to the 'WHAT WE DO' section and click on the icons on the page you will get more of what we do
 
 
 ##License
