@@ -1,11 +1,11 @@
 .intro{
 background-image: url("images/h_img.jpg");
 background-size: cover;
-margin: px;
+margin: 10px;
 color: white;
 text-align: center;
 height: 600px;
-width: 100%;
+width: 1200px;
 display: block;
 margin: auto;
 margin-top: 20px;
@@ -48,7 +48,6 @@ margin-top: 20px;
 }
 .hide1{
   display: none;
-  left: 20px;
 }
 .hide2 {
   display: none;
@@ -64,10 +63,7 @@ padding: 6px;
 }
 .four{
   display: flex;
-padding: 50px;
-  right: 100%;
-  right:400px;
-  padding-left: 300px;
+  margin: 50px;
 }
 #pen {
   text-align: center;
@@ -97,8 +93,6 @@ padding: 50px;
   left: 28%;
   margin: 10px;
   padding: 10px;
-  display:flex;
-  left: 300px;
 }
 li {
   list-style: none;
@@ -108,34 +102,9 @@ li {
 }
 
 .container:hover .image {
-  opacity: ;
-}
-
-
-.text {
-  text-align: center;
-  padding-top: 85px;
-  margin: 10px;
-}
-.col-md-3:hover .B {
   opacity: 1;
 }
-.B {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: black;
-  background-color: grey;
-  width: 100%;
-  height: 100%;
-  opacity: 0;
-}
-.B> p{
-  font-size: 50px;
-  text-align: center;
-  color: white;
-}
+
 
 .text {
   text-align: center;

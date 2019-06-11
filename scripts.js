@@ -13,6 +13,6 @@ $(".clickable3").click(function() {
 });
 $("#sub").click(function(event) {
   var name = $("#name").val();
-  alert(name + " Thanks for your reply");
+  alert(name + " Thank you for replying");
   event.preventDefault();
 });
